@@ -211,3 +211,23 @@ footer {
 #thce{
     text-align:center;padding-top:25px;
 }
+
+
+
+
+.cls
+
+
+element.style {
+}
+#thnamer {
+    text-align: right;
+    padding-top: 25px;
+}
+
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 0px solid #ddd;
+}
