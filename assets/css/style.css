@@ -187,3 +187,27 @@ footer {
         color: #fff;
         text-decoration: none;
     }
+
+#imagehead{
+    width: 60px;
+}
+
+#thnamel{
+    text-align:left;padding-top:25px;
+}
+
+#thnamer{
+    text-align:right;padding-top:25px;
+}
+
+#thpicl{
+    text-align:right;
+}
+
+#thpicr{
+   text-align:left; 
+}
+
+#thce{
+    text-align:center;padding-top:25px;
+}
