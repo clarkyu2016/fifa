@@ -192,6 +192,11 @@ footer {
     width: 60px;
 }
 
+#imagehead1{
+    width: 65px;
+}
+
+
 #thnamel{
     text-align:left;padding-top:25px;
 }
@@ -206,6 +211,10 @@ footer {
 
 #thpicr{
    text-align:left; 
+}
+
+#thpicc{
+    text-align: center;
 }
 
 #thce{
