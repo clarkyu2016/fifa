@@ -2,4 +2,4 @@
 A website for Fifa in 6F
 
 You can access the website by 
-**http://www.fifatv.top**
+**http://clarkyu.cn/fifa/**
